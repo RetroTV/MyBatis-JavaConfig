@@ -12,7 +12,7 @@ import com.mj.dao.UserDao;
 import com.mj.vo.User;
 import com.mj.service.UserService;
 
-@Service("UserService")
+@Service("userService")
 public class UserServiceImpl implements UserService {
 
 	@Autowired
