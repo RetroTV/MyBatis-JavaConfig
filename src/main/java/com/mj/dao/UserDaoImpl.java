@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.mj.mapper.UserMapper;
 import com.mj.vo.User;
 
-@Repository("UserDao")
+@Repository("userDao")
 public class UserDaoImpl implements UserDao {
 
 	@Autowired
