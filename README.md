@@ -5,6 +5,9 @@
 > DATABASE &nbsp;: MariaDB 10.3  
 > DB 쿼리 툴 : QueryBox, HeidiSQL  
 
+## 시작하기 전에
+> mybatis.sql을 이용해 데이터베이스를 생성해 주세요
+
 ## 참고 자료
 > 코드로 배우는 스프링 웹 프로젝트 (개정판)  
 > 저자 : 구멍가게코딩단  
